@@ -1,6 +1,6 @@
 # DOCKER-VERSION 1.0.0
 
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 
 # install nodejs and npm
 RUN apt-get update
